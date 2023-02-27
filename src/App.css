@@ -1,0 +1,15 @@
+.red {
+  background-color: mediumpurple;
+  margin: 10px;
+  height: 80vh;
+  width: 80vh;
+  border-radius: 50%;
+}
+
+.green {
+  background-color: antiquewhite;
+  height: 80vh;
+  width: 80vh;
+  margin: 10px;
+  border-radius: 50%;
+}
